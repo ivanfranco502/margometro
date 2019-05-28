@@ -4,8 +4,8 @@
 + Shows a gauge measuring Marga's wrath *LIVE*
 + Must be Mobile first
 + Sinc'ed with datetime
-+ Sinc'ed with weather
-+ Sinc'ed with planning/ref
++ Sinc'ed with weather (https://openweathermap.org/api)
++ Sinc'ed with planning/ref (google calendars o fixed date?)
 + PWA
 
 ## Project setup
