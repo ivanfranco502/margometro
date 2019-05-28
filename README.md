@@ -1,4 +1,12 @@
-# margometro
+# Margometro
+
+## Requirements
++ Shows a gauge measuring Marga's wrath *LIVE*
++ Must be Mobile first
++ Sinc'ed with datetime
++ Sinc'ed with weather
++ Sinc'ed with planning/ref
++ PWA
 
 ## Project setup
 ```
@@ -24,6 +32,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
